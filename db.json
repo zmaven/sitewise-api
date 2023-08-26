@@ -1,36 +1,1570 @@
 {
-  "comments": [
+  "photos": [
     {
-      "id": 1,
-      "name": "Comment 1"
+      "tagCustom": "",
+      "customTags": [],
+      "link": "https://cdn.pixabay.com/photo/2014/08/11/21/39/wall-416060_150.jpg",
+      "date": 1692584955235,
+      "notes": "Accusamus possimus aut eligendi reprehenderit voluptas.",
+      "id": "b82329ba-8be",
+      "fileName": "architecto.png",
+      "photoId": "6c0169d2-99c",
+      "markAs": true,
+      "isNeedReview": true,
+      "suite": "exterior",
+      "status": "uploaded",
+      "type": "deleted",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "Kansas 158 Kunde Ridge 85919-0526"
     },
     {
-      "id": 2,
-      "name": "Comment 2"
+      "tagCustom": "",
+      "customTags": [],
+      "link": "https://cdn.pixabay.com/photo/2016/11/29/08/43/blank-1868502_150.jpg",
+      "date": 1692584955231,
+      "notes": "Omnis doloremque officiis totam magni deleniti itaque.",
+      "id": "1188a6f6-0c8",
+      "fileName": "asperiores.png",
+      "photoId": "565aa84b-778",
+      "markAs": false,
+      "isNeedReview": true,
+      "suite": "exterior",
+      "status": "showcase",
+      "type": "deleted",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "Rhode Island 949 Hansen Views 77542"
     },
     {
-      "id": 3,
-      "name": "Comment 3"
+      "link": "https://i.ibb.co/B4Vkp5B/curology-6-CJg-f-OTYs4-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692793232991,
+      "notes": "Distinctio in nesciunt deserunt incidunt asperiores odit assumenda harum omnis.",
+      "id": "04f8ed41-c9b",
+      "fileName": "cupiditate.png",
+      "photoId": "ff8172aa-8de",
+      "markAs": false,
+      "isNeedReview": true,
+      "suite": "interior",
+      "status": "uploaded",
+      "type": "deleted",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "Alaska 55007 Ford Ports 27496"
+    },
+    {
+      "link": "https://i.ibb.co/KztWDzH/jean-philippe-delberghe-Ry9-WBo3qmoc-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692793234136,
+      "notes": "Ab esse autem quam quia.",
+      "id": "6fc16000-4fe",
+      "fileName": "voluptatum.png",
+      "photoId": "20024268-e38",
+      "markAs": false,
+      "isNeedReview": true,
+      "suite": "interior",
+      "status": "uploaded",
+      "type": "deleted",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "Illinois 36491 Kutch Trail 09992-7296"
+    },
+    {
+      "link": "https://i.ibb.co/LNXfb0H/di-an-h-g-8-Mr-EZAvy-E-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692793234717,
+      "notes": "Nesciunt ab quo atque ducimus consequuntur.",
+      "id": "f2a21516-43a",
+      "fileName": "blanditiis.png",
+      "photoId": "9507c3a7-783",
+      "markAs": false,
+      "isNeedReview": true,
+      "suite": "exterior",
+      "status": "uploaded",
+      "type": "electric-boxes",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "New Mexico 79271 Altenwerth Ranch 54682"
+    },
+    {
+      "link": "https://i.ibb.co/FnymNkW/jean-philippe-delberghe-feijc-nq-WKM-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692793234735,
+      "notes": "Cumque iure enim dolore atque est voluptate.",
+      "id": "cf14fd51-c45",
+      "fileName": "voluptates.png",
+      "photoId": "0b946b2c-a27",
+      "markAs": true,
+      "isNeedReview": false,
+      "suite": "exterior",
+      "status": "showcase",
+      "type": "electric-boxes",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "Mississippi 62670 Funk Burg 17881-5604"
+    },
+    {
+      "link": "https://i.ibb.co/B4Vkp5B/curology-6-CJg-f-OTYs4-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692793296829,
+      "notes": "Pariatur earum accusantium repellat consectetur et consequatur rem blanditiis.",
+      "id": "37965126-aaa",
+      "fileName": "laudantium.png",
+      "photoId": "b3c968ee-024",
+      "markAs": true,
+      "isNeedReview": true,
+      "suite": "exterior",
+      "status": "uploaded",
+      "type": "electric-boxes",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "Missouri 861 Mervin Rest 08047-6181"
+    },
+    {
+      "link": "https://i.ibb.co/KztWDzH/jean-philippe-delberghe-Ry9-WBo3qmoc-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692793297999,
+      "notes": "Incidunt reprehenderit sint labore reprehenderit earum quas accusantium.",
+      "id": "a694707d-92d",
+      "fileName": "temporibus.png",
+      "photoId": "3cff3614-f37",
+      "markAs": true,
+      "isNeedReview": false,
+      "suite": "exterior",
+      "status": "uploaded",
+      "type": "electric-boxes",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "Nebraska 1510 Austin Street 36502"
+    },
+    {
+      "link": "https://i.ibb.co/LNXfb0H/di-an-h-g-8-Mr-EZAvy-E-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692793299318,
+      "notes": "Nulla dolorum amet sint cumque.",
+      "id": "bf1c9900-344",
+      "fileName": "blanditiis.png",
+      "photoId": "f7371c9a-a0e",
+      "markAs": false,
+      "isNeedReview": true,
+      "suite": "exterior",
+      "status": "showcase",
+      "type": "deleted",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "Connecticut 30055 Shaylee Crest 55669-4878"
+    },
+    {
+      "link": "https://i.ibb.co/FnymNkW/jean-philippe-delberghe-feijc-nq-WKM-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692793299496,
+      "notes": "Debitis aliquam rem et nulla perferendis fugiat culpa repellendus.",
+      "id": "166b78fc-dce",
+      "fileName": "architecto.png",
+      "photoId": "3faf92ef-3a7",
+      "markAs": false,
+      "isNeedReview": true,
+      "suite": "interior",
+      "status": "showcase",
+      "type": "deleted",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "Florida 85415 O'Kon Green 07518-8970"
+    },
+    {
+      "link": "https://i.ibb.co/8793fL1/suchit-poojari-lj-Ri-Zl00n18-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692793319692,
+      "notes": "Beatae error voluptatibus at.",
+      "id": "c07b741f-ef9",
+      "fileName": "cupiditate.png",
+      "photoId": "d2ec80de-0a5",
+      "markAs": true,
+      "isNeedReview": false,
+      "suite": "interior",
+      "status": "showcase",
+      "type": "electric-boxes",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "Minnesota 555 Bryon Oval 99183-3453"
+    },
+    {
+      "link": "https://i.ibb.co/B4Vkp5B/curology-6-CJg-f-OTYs4-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692793321203,
+      "notes": "Nam ad debitis harum natus.",
+      "id": "b897de86-aa1",
+      "fileName": "aspernatur.png",
+      "photoId": "f5ffcc35-d0b",
+      "markAs": true,
+      "isNeedReview": false,
+      "suite": "exterior",
+      "status": "uploaded",
+      "type": "deleted",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "California 6077 Kemmer Junctions 99401"
+    },
+    {
+      "link": "https://i.ibb.co/TP12gtF/pickawood-rwa0-Yh38-Fe-A-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692793323399,
+      "notes": "Ea esse perferendis nobis assumenda cupiditate dolore deserunt harum.",
+      "id": "4fd763ef-566",
+      "fileName": "aspernatur.png",
+      "photoId": "2576e8eb-d30",
+      "markAs": false,
+      "isNeedReview": true,
+      "suite": "interior",
+      "status": "showcase",
+      "type": "electric-boxes",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "New Mexico 325 Ullrich Plain 74563"
+    },
+    {
+      "link": "https://i.ibb.co/Vmj0qYS/spacejoy-Rq-O6kwm4t-ZY-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692793324275,
+      "notes": "Nesciunt laborum assumenda a modi voluptates dolorum.",
+      "id": "4087cfbf-5ac",
+      "fileName": "distinctio.png",
+      "photoId": "d0d2756a-d6a",
+      "markAs": false,
+      "isNeedReview": true,
+      "suite": "exterior",
+      "status": "showcase",
+      "type": "deleted",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "Louisiana 56599 Konopelski Parkway 32566-0793"
+    },
+    {
+      "link": "https://i.ibb.co/KztWDzH/jean-philippe-delberghe-Ry9-WBo3qmoc-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692793324942,
+      "notes": "Ab rem quam ratione.",
+      "id": "10ad14eb-de8",
+      "fileName": "voluptatem.png",
+      "photoId": "de337a42-fb8",
+      "markAs": true,
+      "isNeedReview": true,
+      "suite": "interior",
+      "status": "showcase",
+      "type": "deleted",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "Connecticut 5563 Jones Pass 47926-7728"
+    },
+    {
+      "link": "https://i.ibb.co/FnymNkW/jean-philippe-delberghe-feijc-nq-WKM-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692793325346,
+      "notes": "Consequuntur consequuntur quas expedita tenetur animi.",
+      "id": "8f74dde2-54d",
+      "fileName": "laudantium.png",
+      "photoId": "4f6ed6c5-a7f",
+      "markAs": false,
+      "isNeedReview": true,
+      "suite": "interior",
+      "status": "uploaded",
+      "type": "electric-boxes",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "Colorado 603 Bogisich Streets 51892-7004"
+    },
+    {
+      "link": "https://i.ibb.co/LNXfb0H/di-an-h-g-8-Mr-EZAvy-E-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692793326455,
+      "notes": "Numquam velit blanditiis aliquam quo ullam.",
+      "id": "24c0a7a2-7b8",
+      "fileName": "asperiores.png",
+      "photoId": "a6ad2286-9be",
+      "markAs": true,
+      "isNeedReview": true,
+      "suite": "interior",
+      "status": "uploaded",
+      "type": "electric-boxes",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "Mississippi 68119 Florencio Islands 88870-8579"
+    },
+    {
+      "link": "https://i.ibb.co/1RPzHM1/nathan-fertig-FBXu-Xp57e-M0-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692793326530,
+      "notes": "Facilis et laborum iste.",
+      "id": "a70961ae-8a4",
+      "fileName": "doloremque.png",
+      "photoId": "8061e7c9-a09",
+      "markAs": true,
+      "isNeedReview": true,
+      "suite": "exterior",
+      "status": "uploaded",
+      "type": "electric-boxes",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "Ohio 7811 Pfannerstill Via 17285-7039"
+    },
+    {
+      "link": "https://i.ibb.co/rQfMB5k/Sample-JPGImage-10mbmb-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692793327397,
+      "notes": "Iste at reprehenderit officia eligendi minima ipsum error unde dolorem.",
+      "id": "df47d1a9-b1c",
+      "fileName": "voluptates.png",
+      "photoId": "3794eab8-771",
+      "markAs": true,
+      "isNeedReview": false,
+      "suite": "interior",
+      "status": "uploaded",
+      "type": "deleted",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "Connecticut 6232 Hyatt Junctions 88589"
+    },
+    {
+      "link": "https://i.ibb.co/jfkSHDx/ruslan-bardash-4k-Tb-AMRAHt-Q-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692793327465,
+      "notes": "Id corrupti consequuntur.",
+      "id": "004cc026-ea7",
+      "fileName": "voluptatem.png",
+      "photoId": "0739084f-f08",
+      "markAs": true,
+      "isNeedReview": false,
+      "suite": "exterior",
+      "status": "uploaded",
+      "type": "deleted",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "Hawaii 1819 Karen Forges 86713"
+    },
+    {
+      "link": "https://i.ibb.co/2NWcdDn/suchit-poojari-lj-Ri-Zl00n18-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692854619205,
+      "notes": "Quisquam exercitationem rem nihil omnis.",
+      "id": "6ff2e7ff-c8d",
+      "fileName": "voluptatem.png",
+      "photoId": "dfc13e55-6b8",
+      "markAs": true,
+      "isNeedReview": true,
+      "suite": "interior",
+      "status": "showcase",
+      "type": "deleted",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "Wyoming 17697 Lakin Meadows 63417"
+    },
+    {
+      "link": "https://i.ibb.co/FVjSjgv/curology-6-CJg-f-OTYs4-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692854620851,
+      "notes": "Eos iure quae ea dolorum cupiditate soluta.",
+      "id": "57e37cc8-541",
+      "fileName": "laboriosam.png",
+      "photoId": "f40cbc3d-670",
+      "markAs": true,
+      "isNeedReview": true,
+      "suite": "interior",
+      "status": "uploaded",
+      "type": "deleted",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "Iowa 1545 Lucas Hills 78815-3925"
+    },
+    {
+      "link": "https://i.ibb.co/VCJkrcD/spacejoy-Rq-O6kwm4t-ZY-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692854621895,
+      "notes": "Id minima tempore nulla voluptates quasi laboriosam quae impedit.",
+      "id": "663e94af-27e",
+      "fileName": "doloremque.png",
+      "photoId": "86058a87-180",
+      "markAs": false,
+      "isNeedReview": false,
+      "suite": "exterior",
+      "status": "uploaded",
+      "type": "electric-boxes",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "Alaska 4167 Renner Pass 66693-2204"
+    },
+    {
+      "link": "https://i.ibb.co/gzs3C1d/pickawood-rwa0-Yh38-Fe-A-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692854622601,
+      "notes": "Illum a maiores amet alias cumque cum sapiente reiciendis quasi.",
+      "id": "0552dfe5-c17",
+      "fileName": "recusandae.png",
+      "photoId": "1ff1ce3a-784",
+      "markAs": true,
+      "isNeedReview": true,
+      "suite": "interior",
+      "status": "uploaded",
+      "type": "electric-boxes",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "Hawaii 6865 Altenwerth Walk 22658-9443"
+    },
+    {
+      "link": "https://i.ibb.co/kKQGwQd/jean-philippe-delberghe-Ry9-WBo3qmoc-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692854623520,
+      "notes": "Impedit error doloribus quam iure laudantium deserunt.",
+      "id": "e36570b9-f7c",
+      "fileName": "cupiditate.png",
+      "photoId": "3fa362aa-0fc",
+      "markAs": false,
+      "isNeedReview": true,
+      "suite": "interior",
+      "status": "uploaded",
+      "type": "deleted",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "Connecticut 931 Ottilie Forks 61414-1570"
+    },
+    {
+      "link": "https://i.ibb.co/1GJSVWp/di-an-h-g-8-Mr-EZAvy-E-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692854623733,
+      "notes": "Sunt asperiores laborum voluptate cumque perspiciatis earum quam at.",
+      "id": "3e137c81-a54",
+      "fileName": "temporibus.png",
+      "photoId": "dba0a1fb-56a",
+      "markAs": false,
+      "isNeedReview": false,
+      "suite": "exterior",
+      "status": "showcase",
+      "type": "deleted",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "Indiana 710 Amie Wall 23777-9272"
+    },
+    {
+      "link": "https://i.ibb.co/jZ7fgMT/jean-philippe-delberghe-feijc-nq-WKM-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692854623799,
+      "notes": "Cum odit a dolores maxime quia.",
+      "id": "297e465c-e3d",
+      "fileName": "laboriosam.png",
+      "photoId": "a656a0b9-883",
+      "markAs": true,
+      "isNeedReview": false,
+      "suite": "exterior",
+      "status": "showcase",
+      "type": "deleted",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "Massachusetts 220 Bailey Streets 95771"
+    },
+    {
+      "link": "https://i.ibb.co/LnWwnbj/Sample-JPGImage-10mbmb-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692854624107,
+      "notes": "Quae doloremque quisquam mollitia ea neque ut pariatur doloremque saepe.",
+      "id": "b853e8f1-504",
+      "fileName": "laudantium.png",
+      "photoId": "2562df40-cc9",
+      "markAs": true,
+      "isNeedReview": false,
+      "suite": "interior",
+      "status": "showcase",
+      "type": "deleted",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "Louisiana 7671 Zackary Meadow 94453-4578"
+    },
+    {
+      "link": "https://i.ibb.co/prQHRF8/nathan-fertig-FBXu-Xp57e-M0-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692854624223,
+      "notes": "Laudantium praesentium nam totam nulla eveniet repellat nemo.",
+      "id": "985d98e0-9f9",
+      "fileName": "laudantium.png",
+      "photoId": "de82649e-ae3",
+      "markAs": false,
+      "isNeedReview": true,
+      "suite": "exterior",
+      "status": "uploaded",
+      "type": "deleted",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "Montana 81650 Okuneva Center 91673"
+    },
+    {
+      "link": "https://i.ibb.co/bstBdpm/ruslan-bardash-4k-Tb-AMRAHt-Q-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692854625018,
+      "notes": "Quas quod natus dolores laboriosam.",
+      "id": "dc5851ce-6cc",
+      "fileName": "reiciendis.png",
+      "photoId": "f90a3f09-50b",
+      "markAs": false,
+      "isNeedReview": false,
+      "suite": "exterior",
+      "status": "uploaded",
+      "type": "electric-boxes",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "Missouri 84796 Gulgowski Ramp 93156-0115"
+    },
+    {
+      "link": "https://i.ibb.co/2NWcdDn/suchit-poojari-lj-Ri-Zl00n18-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692855447926,
+      "notes": "Cupiditate blanditiis ab provident.",
+      "id": "586dfa08-d32",
+      "fileName": "reiciendis.png",
+      "photoId": "89657afe-e43",
+      "markAs": true,
+      "isNeedReview": false,
+      "suite": "exterior",
+      "status": "uploaded",
+      "type": "electric-boxes",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "Kansas 7550 Scot Loop 29099-3060"
+    },
+    {
+      "link": "https://i.ibb.co/FVjSjgv/curology-6-CJg-f-OTYs4-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692855449566,
+      "notes": "Officia perspiciatis commodi.",
+      "id": "279ac86d-a6c",
+      "fileName": "asperiores.png",
+      "photoId": "090f6a12-98e",
+      "markAs": true,
+      "isNeedReview": true,
+      "suite": "interior",
+      "status": "uploaded",
+      "type": "electric-boxes",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "Colorado 19237 Sadie River 04478-9056"
+    },
+    {
+      "link": "https://i.ibb.co/gzs3C1d/pickawood-rwa0-Yh38-Fe-A-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692855450925,
+      "notes": "Laboriosam consequuntur harum quae doloribus impedit.",
+      "id": "f526b4ed-81b",
+      "fileName": "distinctio.png",
+      "photoId": "a87f5266-e4a",
+      "markAs": true,
+      "isNeedReview": true,
+      "suite": "interior",
+      "status": "showcase",
+      "type": "electric-boxes",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "Nebraska 939 Kirk Path 82263-1966"
+    },
+    {
+      "link": "https://i.ibb.co/kKQGwQd/jean-philippe-delberghe-Ry9-WBo3qmoc-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692855451230,
+      "notes": "Porro nesciunt sequi voluptatem hic consequatur.",
+      "id": "3a046735-21b",
+      "fileName": "doloremque.png",
+      "photoId": "b91842d9-690",
+      "markAs": true,
+      "isNeedReview": true,
+      "suite": "exterior",
+      "status": "uploaded",
+      "type": "electric-boxes",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "Mississippi 4706 Champlin Motorway 37900"
+    },
+    {
+      "link": "https://i.ibb.co/VCJkrcD/spacejoy-Rq-O6kwm4t-ZY-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692855452182,
+      "notes": "Iure minima temporibus rerum mollitia.",
+      "id": "1880a281-bb2",
+      "fileName": "laudantium.png",
+      "photoId": "f716d3ba-c2a",
+      "markAs": false,
+      "isNeedReview": false,
+      "suite": "exterior",
+      "status": "showcase",
+      "type": "deleted",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "Delaware 7253 Clementina Cove 45033"
+    },
+    {
+      "link": "https://i.ibb.co/1GJSVWp/di-an-h-g-8-Mr-EZAvy-E-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692855452184,
+      "notes": "Ea dolorem optio eveniet a vel eos vitae dolore.",
+      "id": "cf1031ad-d59",
+      "fileName": "doloremque.png",
+      "photoId": "a3a65841-dee",
+      "markAs": false,
+      "isNeedReview": true,
+      "suite": "exterior",
+      "status": "showcase",
+      "type": "electric-boxes",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "New Jersey 5728 Christina Inlet 53597-0224"
+    },
+    {
+      "link": "https://i.ibb.co/jZ7fgMT/jean-philippe-delberghe-feijc-nq-WKM-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692855452232,
+      "notes": "At fugit commodi sapiente quam temporibus quidem eos.",
+      "id": "43b8b8b6-66e",
+      "fileName": "reiciendis.png",
+      "photoId": "7fbc694b-1ac",
+      "markAs": false,
+      "isNeedReview": false,
+      "suite": "interior",
+      "status": "uploaded",
+      "type": "deleted",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "Ohio 480 Senger Estate 80323"
+    },
+    {
+      "link": "https://i.ibb.co/prQHRF8/nathan-fertig-FBXu-Xp57e-M0-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692855452386,
+      "notes": "Illum labore officiis.",
+      "id": "0b42b5c8-20e",
+      "fileName": "cupiditate.png",
+      "photoId": "9f3914b7-8d2",
+      "markAs": true,
+      "isNeedReview": true,
+      "suite": "interior",
+      "status": "showcase",
+      "type": "electric-boxes",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "North Carolina 9984 Stoltenberg Canyon 72826-1408"
+    },
+    {
+      "link": "https://i.ibb.co/bstBdpm/ruslan-bardash-4k-Tb-AMRAHt-Q-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692855452654,
+      "notes": "Labore tenetur earum voluptas optio.",
+      "id": "a89ad82e-43f",
+      "fileName": "laudantium.png",
+      "photoId": "91469f7f-933",
+      "markAs": false,
+      "isNeedReview": false,
+      "suite": "interior",
+      "status": "showcase",
+      "type": "electric-boxes",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "Indiana 577 Hermann Roads 23749"
+    },
+    {
+      "link": "https://i.ibb.co/LnWwnbj/Sample-JPGImage-10mbmb-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692855452887,
+      "notes": "Tempore temporibus a quia odio animi voluptatum voluptate temporibus enim.",
+      "id": "7e76fe42-633",
+      "fileName": "voluptatum.png",
+      "photoId": "d47887df-fb2",
+      "markAs": true,
+      "isNeedReview": false,
+      "suite": "interior",
+      "status": "showcase",
+      "type": "electric-boxes",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "New York 96102 Guillermo Trace 66530"
+    },
+    {
+      "link": "https://i.ibb.co/QkZLc5n/782-A680-C-4202-45-EC-9294-AD87-DAA38-DB3-jpeg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692855472063,
+      "notes": "Natus consectetur eos deserunt ratione reprehenderit quasi consequuntur harum autem.",
+      "id": "e7658178-782",
+      "fileName": "distinctio.png",
+      "photoId": "75eed282-230",
+      "markAs": false,
+      "isNeedReview": false,
+      "suite": "exterior",
+      "status": "uploaded",
+      "type": "deleted",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "New Mexico 19535 Kristina Island 17563-0807"
+    },
+    {
+      "link": "https://i.ibb.co/fxJXjdy/69252033-87-FD-47-DE-859-D-A59-E1-A0-DC0-BF-1-201-a-jpeg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692855472157,
+      "notes": "Tempore aliquam repudiandae error consequuntur consequatur corrupti officia.",
+      "id": "0edc3080-a19",
+      "fileName": "temporibus.png",
+      "photoId": "c6760b7c-e11",
+      "markAs": true,
+      "isNeedReview": false,
+      "suite": "exterior",
+      "status": "showcase",
+      "type": "electric-boxes",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "Kentucky 476 Simonis Causeway 29373"
+    },
+    {
+      "link": "https://i.ibb.co/2NWcdDn/suchit-poojari-lj-Ri-Zl00n18-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692855475930,
+      "notes": "Ab excepturi est rerum animi est asperiores molestias.",
+      "id": "62390608-e8d",
+      "fileName": "distinctio.png",
+      "photoId": "9e067ad7-68b",
+      "markAs": false,
+      "isNeedReview": true,
+      "suite": "exterior",
+      "status": "uploaded",
+      "type": "electric-boxes",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "Mississippi 23377 Dean Via 18146"
+    },
+    {
+      "link": "https://i.ibb.co/FVjSjgv/curology-6-CJg-f-OTYs4-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692855476502,
+      "notes": "Porro perspiciatis doloremque.",
+      "id": "28150a70-f3d",
+      "fileName": "laudantium.png",
+      "photoId": "8b742262-a46",
+      "markAs": false,
+      "isNeedReview": false,
+      "suite": "interior",
+      "status": "uploaded",
+      "type": "deleted",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "Virginia 206 Torphy Common 49309"
+    },
+    {
+      "link": "https://i.ibb.co/VCJkrcD/spacejoy-Rq-O6kwm4t-ZY-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692855478098,
+      "notes": "Natus nostrum veniam voluptatum voluptatem delectus.",
+      "id": "1789453c-67d",
+      "fileName": "voluptatum.png",
+      "photoId": "c0660f84-db5",
+      "markAs": false,
+      "isNeedReview": false,
+      "suite": "exterior",
+      "status": "showcase",
+      "type": "electric-boxes",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "New Jersey 8780 Coby Glens 44972"
+    },
+    {
+      "link": "https://i.ibb.co/gzs3C1d/pickawood-rwa0-Yh38-Fe-A-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692855478132,
+      "notes": "Repellendus animi illum asperiores molestiae cupiditate esse.",
+      "id": "19787612-73e",
+      "fileName": "architecto.png",
+      "photoId": "4e868d48-706",
+      "markAs": true,
+      "isNeedReview": false,
+      "suite": "exterior",
+      "status": "uploaded",
+      "type": "electric-boxes",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "New Mexico 53839 Roberts Mews 27124"
+    },
+    {
+      "link": "https://i.ibb.co/kKQGwQd/jean-philippe-delberghe-Ry9-WBo3qmoc-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692855478333,
+      "notes": "Ipsa ipsum voluptas occaecati vero repellendus.",
+      "id": "8c8224a8-8fc",
+      "fileName": "laboriosam.png",
+      "photoId": "46e3f54c-81e",
+      "markAs": false,
+      "isNeedReview": false,
+      "suite": "exterior",
+      "status": "uploaded",
+      "type": "electric-boxes",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "Washington 126 Carey Island 50131-3448"
+    },
+    {
+      "link": "https://i.ibb.co/jZ7fgMT/jean-philippe-delberghe-feijc-nq-WKM-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692855478812,
+      "notes": "Omnis odit accusantium.",
+      "id": "0b224652-7fb",
+      "fileName": "distinctio.png",
+      "photoId": "4145e64a-0a7",
+      "markAs": false,
+      "isNeedReview": false,
+      "suite": "exterior",
+      "status": "showcase",
+      "type": "deleted",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "Minnesota 40849 Amanda Shoals 79401-2701"
+    },
+    {
+      "link": "https://i.ibb.co/1GJSVWp/di-an-h-g-8-Mr-EZAvy-E-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692855479291,
+      "notes": "Iste explicabo error minus architecto ea.",
+      "id": "40d53245-7f1",
+      "fileName": "architecto.png",
+      "photoId": "bd5184b7-bb6",
+      "markAs": false,
+      "isNeedReview": true,
+      "suite": "exterior",
+      "status": "showcase",
+      "type": "deleted",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "New York 78262 Zulauf Mills 34702"
+    },
+    {
+      "link": "https://i.ibb.co/prQHRF8/nathan-fertig-FBXu-Xp57e-M0-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692855479303,
+      "notes": "Dolorum neque atque perferendis laboriosam cupiditate quibusdam.",
+      "id": "e738ba94-2e0",
+      "fileName": "reiciendis.png",
+      "photoId": "63371bdc-9df",
+      "markAs": true,
+      "isNeedReview": false,
+      "suite": "exterior",
+      "status": "uploaded",
+      "type": "electric-boxes",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "Illinois 9327 Pearline Spurs 18530"
+    },
+    {
+      "link": "https://i.ibb.co/LnWwnbj/Sample-JPGImage-10mbmb-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692855480761,
+      "notes": "Sunt ad quod tenetur ad quam.",
+      "id": "be2abb52-487",
+      "fileName": "reiciendis.png",
+      "photoId": "fff92f3f-a21",
+      "markAs": true,
+      "isNeedReview": true,
+      "suite": "interior",
+      "status": "uploaded",
+      "type": "electric-boxes",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "Maine 310 Gerlach Mall 38844"
+    },
+    {
+      "link": "https://i.ibb.co/bstBdpm/ruslan-bardash-4k-Tb-AMRAHt-Q-unsplash-jpg.jpg",
+      "tagCustom": "",
+      "customTags": [],
+      "date": 1692855481098,
+      "notes": "A enim itaque natus maxime.",
+      "id": "1080274d-73e",
+      "fileName": "aspernatur.png",
+      "photoId": "09c9c349-04b",
+      "markAs": true,
+      "isNeedReview": false,
+      "suite": "exterior",
+      "status": "uploaded",
+      "type": "deleted",
+      "tags": [
+        "Date and Time",
+        "Needs Review",
+        "Showcase Photo",
+        "Uploaded Photos"
+      ],
+      "location": "California 119 Parisian Cliff 17739"
     }
   ],
-  "users": [
+  "projects": [
     {
-      "id": 1,
-      "name": "User 1",
-      "username": "username1",
-      "email": "user1@example.com"
+      "id": "8c3a56c0-2a6",
+      "analyst": {
+        "name": "Ethel Effertz"
+      },
+      "siteContact": {
+        "name": "Carol West",
+        "phone": "1-324-935-2823",
+        "email": "Araceli_Jast49@gmail.com"
+      },
+      "opportunityContact": "Vera Ryan",
+      "siteVisit": 1685336147550,
+      "description": "Similique facilis optio blanditiis quis omnis iste modi possimus incidunt.",
+      "size": {
+        "sqft": 34,
+        "acres": 0
+      },
+      "status": "in-person",
+      "address": "Nebraska 73597 Kulas Passage 61999-4845",
+      "inspectionDate": 1692930156102
     },
     {
-      "id": 2,
-      "name": "User 2",
-      "username": "username2",
-      "email": "user2@example.com"
+      "id": "1eba338a-b8f",
+      "analyst": {
+        "name": "Reginald Cummerata"
+      },
+      "siteContact": {
+        "name": "Maureen Rolfson",
+        "phone": "(506) 454-6420 x84487",
+        "email": "Gus.Tremblay@hotmail.com"
+      },
+      "opportunityContact": "Dr. Larry Connelly",
+      "siteVisit": 1716449550611,
+      "description": "Incidunt dolore repudiandae sint pariatur quisquam reiciendis.",
+      "size": {
+        "sqft": 19,
+        "acres": 0.6
+      },
+      "status": "in-person",
+      "address": "Illinois 2546 Spinka Mews 78033",
+      "inspectionDate": 1692930156102
     },
     {
-      "id": 3,
-      "name": "User 3",
-      "username": "username3",
-      "email": "user3@example.com"
+      "id": "e40978b2-f52",
+      "analyst": {
+        "name": "Samuel Runolfsdottir"
+      },
+      "siteContact": {
+        "name": "Hector Will DVM",
+        "phone": "600-758-5427 x963",
+        "email": "Freida28@hotmail.com"
+      },
+      "opportunityContact": "Janet Dare",
+      "siteVisit": 1682623961483,
+      "description": "Cum animi ipsa doloribus.",
+      "size": {
+        "sqft": 69,
+        "acres": 0.6
+      },
+      "status": "in-person",
+      "address": "Missouri 443 Bessie Cape 48447",
+      "inspectionDate": 1692930156102
+    },
+    {
+      "id": "0d85cfef-e35",
+      "analyst": {
+        "name": "Guillermo Botsford"
+      },
+      "siteContact": {
+        "name": "Vanessa Huels",
+        "phone": "717.680.6248 x789",
+        "email": "Vida.Koss@gmail.com"
+      },
+      "opportunityContact": "Elizabeth Williamson",
+      "siteVisit": 1673905205327,
+      "description": "Corporis in error ratione accusamus temporibus sint nobis.",
+      "size": {
+        "sqft": 48,
+        "acres": 0.4
+      },
+      "status": "virtual",
+      "address": "Massachusetts 518 Ruecker Burg 46946",
+      "inspectionDate": 1692930156102
+    },
+    {
+      "id": "5c934d93-0c1",
+      "analyst": {
+        "name": "Dr. Chris MacGyver"
+      },
+      "siteContact": {
+        "name": "Dr. Johnny Rempel",
+        "phone": "270.986.6021 x82346",
+        "email": "Gaston.Klocko86@gmail.com"
+      },
+      "opportunityContact": "Eula Rath PhD",
+      "siteVisit": 1719375243662,
+      "description": "Assumenda rem ad debitis nostrum tempora.",
+      "size": {
+        "sqft": 58,
+        "acres": 0.3
+      },
+      "status": "virtual",
+      "address": "Nebraska 979 Kautzer Views 60909-9491",
+      "inspectionDate": 1692930156103
+    },
+    {
+      "id": "7b9e9c7e-813",
+      "analyst": {
+        "name": "Colin Mertz"
+      },
+      "siteContact": {
+        "name": "Heather Herman",
+        "phone": "1-900-295-2962",
+        "email": "Kenny.Hagenes-Torp@yahoo.com"
+      },
+      "opportunityContact": "Kristen Schmeler",
+      "siteVisit": 1716501905661,
+      "description": "Reiciendis voluptates fugit necessitatibus alias placeat.",
+      "size": {
+        "sqft": 64,
+        "acres": 0.3
+      },
+      "status": "virtual",
+      "address": "Louisiana 70577 Wolff Circle 60536-0134",
+      "inspectionDate": 1692930156103
+    },
+    {
+      "id": "a0dee438-192",
+      "analyst": {
+        "name": "Gayle Ebert"
+      },
+      "siteContact": {
+        "name": "Lori Emmerich",
+        "phone": "571-389-7652 x021",
+        "email": "Sebastian_Runolfsdottir@hotmail.com"
+      },
+      "opportunityContact": "Nick McKenzie",
+      "siteVisit": 1714283499077,
+      "description": "Debitis facilis est dolor magni quae et.",
+      "size": {
+        "sqft": 14,
+        "acres": 0.2
+      },
+      "status": "in-person",
+      "address": "Colorado 506 Rod Loaf 01022-4796",
+      "inspectionDate": 1692930156103
+    },
+    {
+      "id": "4e268a93-e6e",
+      "analyst": {
+        "name": "Austin Harvey DVM"
+      },
+      "siteContact": {
+        "name": "Christine Schuster Sr.",
+        "phone": "1-301-993-2830",
+        "email": "Emelie_Labadie@yahoo.com"
+      },
+      "opportunityContact": "Christie Swaniawski",
+      "siteVisit": 1661430544547,
+      "description": "Sapiente iste dolore quasi illum.",
+      "size": {
+        "sqft": 11,
+        "acres": 0.3
+      },
+      "status": "in-person",
+      "address": "Alaska 62260 Seamus Fords 18615",
+      "inspectionDate": 1692930156103
+    },
+    {
+      "id": "80d2ab4b-ca5",
+      "analyst": {
+        "name": "Carol Hermiston"
+      },
+      "siteContact": {
+        "name": "Camille Watsica",
+        "phone": "258.777.1873 x434",
+        "email": "Isom.Nikolaus@yahoo.com"
+      },
+      "opportunityContact": "Arthur Kohler",
+      "siteVisit": 1677122188944,
+      "description": "Facilis est explicabo dolor necessitatibus tempora.",
+      "size": {
+        "sqft": 72,
+        "acres": 0.1
+      },
+      "status": "virtual",
+      "address": "Alabama 24714 Roberta Skyway 42464-6383",
+      "inspectionDate": 1692930156103
+    },
+    {
+      "id": "e47aad9e-b5d",
+      "analyst": {
+        "name": "Beth Ebert"
+      },
+      "siteContact": {
+        "name": "Mr. Chris Koelpin II",
+        "phone": "(849) 952-8520 x60008",
+        "email": "Norwood.Jacobs@yahoo.com"
+      },
+      "opportunityContact": "Grace Treutel",
+      "siteVisit": 1721669165980,
+      "description": "Modi eveniet officia occaecati veritatis perferendis.",
+      "size": {
+        "sqft": 82,
+        "acres": 0.2
+      },
+      "status": "virtual",
+      "address": "Hawaii 4829 Andy Path 24702",
+      "inspectionDate": 1692930156103
+    },
+    {
+      "id": "bd7cba1d-9b4",
+      "analyst": {
+        "name": "Alexandra Gutkowski"
+      },
+      "siteContact": {
+        "name": "Mrs. Evelyn Barton-McGlynn",
+        "phone": "(800) 337-0774 x238",
+        "email": "Toy39@gmail.com"
+      },
+      "opportunityContact": "Elena Crooks",
+      "siteVisit": 1686293662182,
+      "description": "Maxime eaque fugit recusandae quae at.",
+      "size": {
+        "sqft": 11,
+        "acres": 0.4
+      },
+      "status": "in-person",
+      "address": "Texas 40183 Tracey Fields 98292-5338",
+      "inspectionDate": 1692930156103
+    },
+    {
+      "id": "63fab719-b94",
+      "analyst": {
+        "name": "Larry Hermann"
+      },
+      "siteContact": {
+        "name": "Ronald Simonis",
+        "phone": "661.894.5424 x742",
+        "email": "Kali95@hotmail.com"
+      },
+      "opportunityContact": "Alvin Dooley",
+      "siteVisit": 1667454026636,
+      "description": "Nisi nobis vel incidunt sint.",
+      "size": {
+        "sqft": 53,
+        "acres": 0.1
+      },
+      "status": "virtual",
+      "address": "Washington 9314 Hoeger Rapid 44189-2764",
+      "inspectionDate": 1692930156103
+    },
+    {
+      "id": "f0191bf3-3da",
+      "analyst": {
+        "name": "Mildred Romaguera IV"
+      },
+      "siteContact": {
+        "name": "Katherine Volkman",
+        "phone": "230.624.3750",
+        "email": "Neva.Gislason68@yahoo.com"
+      },
+      "opportunityContact": "Mitchell Kiehn",
+      "siteVisit": 1699163430522,
+      "description": "Iusto molestias minima provident veniam.",
+      "size": {
+        "sqft": 68,
+        "acres": 0
+      },
+      "status": "virtual",
+      "address": "Montana 7494 Coralie Highway 47844",
+      "inspectionDate": 1692930156103
+    },
+    {
+      "id": "64dce564-589",
+      "analyst": {
+        "name": "Gabriel Hintz"
+      },
+      "siteContact": {
+        "name": "Theresa Wolff",
+        "phone": "513.684.8794 x5901",
+        "email": "Alene76@yahoo.com"
+      },
+      "opportunityContact": "Gabriel Goyette",
+      "siteVisit": 1689002960470,
+      "description": "Culpa itaque quas animi suscipit non.",
+      "size": {
+        "sqft": 37,
+        "acres": 0.2
+      },
+      "status": "virtual",
+      "address": "Kentucky 45202 Melvin Motorway 31034-4448",
+      "inspectionDate": 1692930156103
+    },
+    {
+      "id": "041873eb-4ba",
+      "analyst": {
+        "name": "Linda Bosco"
+      },
+      "siteContact": {
+        "name": "Mario Olson",
+        "phone": "1-600-710-8791 x7616",
+        "email": "Schuyler10@hotmail.com"
+      },
+      "opportunityContact": "Kelli Legros",
+      "siteVisit": 1712928914180,
+      "description": "Cupiditate officiis saepe eius tempora fuga mollitia debitis.",
+      "size": {
+        "sqft": 42,
+        "acres": 0
+      },
+      "status": "virtual",
+      "address": "Wyoming 88383 Cassin Via 98582",
+      "inspectionDate": 1692930156103
+    },
+    {
+      "id": "6509bf59-e1c",
+      "analyst": {
+        "name": "Valerie Klocko"
+      },
+      "siteContact": {
+        "name": "Lucille Mayer",
+        "phone": "970-486-4973 x462",
+        "email": "Eliezer.Kuhic49@yahoo.com"
+      },
+      "opportunityContact": "Mr. Blake Runolfsdottir",
+      "siteVisit": 1689190135052,
+      "description": "Veniam inventore eius animi exercitationem sequi repudiandae libero.",
+      "size": {
+        "sqft": 71,
+        "acres": 0.1
+      },
+      "status": "in-person",
+      "address": "Louisiana 520 Tommie Port 48803-2714",
+      "inspectionDate": 1692930156103
+    },
+    {
+      "id": "f7cef745-de1",
+      "analyst": {
+        "name": "Beatrice Koepp IV"
+      },
+      "siteContact": {
+        "name": "Joseph Koch",
+        "phone": "338-541-1170 x95916",
+        "email": "Chesley_Strosin-Dare@yahoo.com"
+      },
+      "opportunityContact": "Dr. Lydia Cassin",
+      "siteVisit": 1687327853167,
+      "description": "Est quam nisi consequuntur quidem.",
+      "size": {
+        "sqft": 48,
+        "acres": 1
+      },
+      "status": "virtual",
+      "address": "Maryland 337 Aric Radial 93996-7866",
+      "inspectionDate": 1692930156103
+    },
+    {
+      "id": "816d8c7b-602",
+      "analyst": {
+        "name": "Mrs. Vanessa Effertz"
+      },
+      "siteContact": {
+        "name": "Aaron Abbott Jr.",
+        "phone": "1-314-592-3899 x276",
+        "email": "Jaquan14@yahoo.com"
+      },
+      "opportunityContact": "Angie Gibson",
+      "siteVisit": 1723861125722,
+      "description": "Quis repellat totam sint eveniet repudiandae enim iure enim.",
+      "size": {
+        "sqft": 33,
+        "acres": 0.2
+      },
+      "status": "virtual",
+      "address": "Texas 2026 Carolina Green 13803-1399",
+      "inspectionDate": 1692930156104
+    },
+    {
+      "id": "f0986510-593",
+      "analyst": {
+        "name": "Travis Walsh"
+      },
+      "siteContact": {
+        "name": "Tommy Will MD",
+        "phone": "(242) 391-9909 x684",
+        "email": "Jeromy54@yahoo.com"
+      },
+      "opportunityContact": "Arlene Batz",
+      "siteVisit": 1687680084026,
+      "description": "Et facilis perferendis temporibus architecto.",
+      "size": {
+        "sqft": 52,
+        "acres": 0.1
+      },
+      "status": "virtual",
+      "address": "Nevada 57667 Welch Greens 13416",
+      "inspectionDate": 1692930156104
+    },
+    {
+      "id": "4fb601d0-370",
+      "analyst": {
+        "name": "Shane Torp"
+      },
+      "siteContact": {
+        "name": "Ramon Funk",
+        "phone": "(606) 416-3549 x2164",
+        "email": "Waylon_Zemlak87@gmail.com"
+      },
+      "opportunityContact": "Andres Ryan",
+      "siteVisit": 1723370677524,
+      "description": "Doloremque tenetur non.",
+      "size": {
+        "sqft": 53,
+        "acres": 0.7
+      },
+      "status": "virtual",
+      "address": "Kansas 54801 Wuckert Mission 84622-6023",
+      "inspectionDate": 1692930156104
     }
   ]
 }
