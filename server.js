@@ -1,4 +1,5 @@
 const jsonServer = require('json-server')
+const bodyParser = require('body-parser');
 const clone = require('clone')
 const data = require('./db.json')
 
@@ -11,8 +12,8 @@ const router = jsonServer.router(isProductionEnv ? clone(data) : 'db.json', {
 })
 const middlewares = jsonServer.defaults()
 
-server.use(jsonServer.bodyParser.json({limit: '10mb', extended: true}))
-server.use(jsonServer.bodyParser.urlencoded({limit: '10mb', extended: true}))
+server.use(bodyParser.json({limit: '10mb', extended: true}))
+server.use(bodyParser.urlencoded({limit: '10mb', extended: true}))
 server.use(middlewares)
 
 server.use((req, res, next) => {
