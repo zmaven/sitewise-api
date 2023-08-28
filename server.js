@@ -11,7 +11,7 @@ const router = jsonServer.router(isProductionEnv ? clone(data) : 'db.json', {
 })
 const middlewares = jsonServer.defaults()
 
-server.use(jsonServer.bodyParser({ limit: '100mb' }));
+server.use(jsonServer.bodyParser({limit: '10mb'}))
 server.use(middlewares)
 
 server.use((req, res, next) => {
